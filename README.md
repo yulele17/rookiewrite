@@ -11,8 +11,6 @@ typora-copy-images-to: ./
 
 ![](E:\tang\个人文集\rookiewrite\qrcode_for_gh_1afad3368e82_258.jpg)
 
-扫码关注
-
 回复关键字
 
 【黑客攻防】领取1.9G黑客攻防教程
